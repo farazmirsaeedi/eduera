@@ -5,9 +5,16 @@
 @font-face {
     font-family: 'red rose';
     src: url(assets/fonts/RedRose-Medium.ttf);
+    src: url(assets/fonts/RedRose-Light.ttf) format('ttf');
 }
 
 .m-a-x{
     max-width: 80rem;
     margin: 0 auto;
+}
+.p-font{
+    font-size: 15px !important;
+}
+.font-p{
+    font-size: 10px !important;
 }
