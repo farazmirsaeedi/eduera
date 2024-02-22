@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        'red rose':'red rose'
+        'red-rose':'red rose'
       }
     },
   },
